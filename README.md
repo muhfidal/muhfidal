@@ -5,7 +5,7 @@
 📚 Experienced in Laravel, Arduino, Godot, and Python.
 
 ## 🚀 My Projects
-- **Simlab Unsiq**: [Sistem Informasi Manajemen Laboratorium Unsiq]([uptlab.unsiq.ac.id](https://www.uptlab.unsiq.ac.id/)).
+- **Simlab Unsiq**: [Sistem Informasi Manajemen Laboratorium Unsiq (https://www.uptlab.unsiq.ac.id/).
 - **MC Adventure**: Platformer game using Godot Engine. (Coming Soon)
 
 ## 💡 Skills & Tools
